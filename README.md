@@ -11,7 +11,7 @@
 
 <b>A.</b><b>Penjelasan Program Latihan 1#</b><p>
 <b>a.</b><b>Menampilan bilangan acak dari bilangan yang lebih kecil dari 0.5<p>
-<b>Source Code</b><b>
+<b>Source Code</b><b><p>
 '''python
 while True:
     from random import random
