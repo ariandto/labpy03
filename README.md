@@ -13,7 +13,7 @@
 <b>a.</b><b>Menampilan bilangan acak dari bilangan yang lebih kecil dari 0.5<p>
 <b>Source Code</b><b></p>
 
-'''python
+```python
 while True:
     from random import random
     n=int(input("masukkan bilangan: "))
