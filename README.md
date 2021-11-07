@@ -5,14 +5,14 @@
 <p>
 
 <p align="center">
-<img src="https://github.com/ariandto/labspy02/blob/main/gmb/s1.png"/>
+<img src=""/>
 <p align="center">
 </p>
 
 <b>A.</b><b>Penjelasan Program Latihan 1#</b><p>
 <b>a.</b><b>Menampilan bilangan acak dari bilangan yang lebih kecil dari 0.5<p>
 <b>Source Code</b><b>
-'''javascript
+'''python
 while True:
     from random import random
     n=int(input("masukkan bilangan: "))
