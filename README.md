@@ -60,3 +60,6 @@ Hal ini memungkinkan Anda untuk kemudian hanya memanggil random() langsung.<p>
 
 * Untuk sekedar informasi jika ingin eksekusi dengan library modul ```from random import random``` harus menggunakan IDE atau text editor `pycharm`
 
+```print(f"Perulangan ke-{i+1}",bil)```<p>
+
+* Merupakan looping yang berfungsi untuk menampilkan sequence dari bilangan yang ditampilkan<p>
