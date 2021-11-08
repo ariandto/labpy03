@@ -9,8 +9,8 @@ Fungsi Perulangan Random dan Contoh Program Perulangan
 <p align="center">
 </p>
 
-A.Penjelasan Program Latihan 1#<p>
-a.Menampilan bilangan acak dari bilangan yang lebih kecil dari 0.5<p>
+A. Penjelasan Program Latihan 1#<p>
+a. Menampilkan bilangan acak dari bilangan yang lebih kecil dari 0.5<p>
 Source Code:</p>
 
 ```python
@@ -27,6 +27,15 @@ while True:
     if lanjut=="N" or lanjut=="n":
         break
 ```
+Hasil Program sebagai berikut<p>
+
+<p align="center">
+<img src="https://github.com/ariandto/labpy03/blob/main/Looping/L1.png"/>
+<p align="center">
+</p>
+
+
+
 
 Keterangan</p>
 
@@ -49,4 +58,5 @@ Melakukan impor dengan cara ini mengharuskan Anda menggunakan sintaks random.ran
 
 Hal ini memungkinkan Anda untuk kemudian hanya memanggil random() langsung.<p>
 
-* Untuk sekedar informasi jika ingin eksekusi dengan library modul ```from random import random``` harus menggunakan IDE atau text editor <em>pychram<em>
+* Untuk sekedar informasi jika ingin eksekusi dengan library modul ```from random import random``` harus menggunakan IDE atau text editor `pycharm`
+
