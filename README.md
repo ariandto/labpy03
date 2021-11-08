@@ -39,11 +39,11 @@ while True:
 from random import random
 ```
 
-- import random mengimpor modul acak , yang berisi berbagai hal yang berkaitan dengan pembuatan angka acak. Diantaranya adalah random () fungsi , yang menghasilkan angka acak antara 0 dan 1.
+- Perbedaan 
+```import random```
+mengimpor modul acak , yang berisi berbagai hal yang berkaitan dengan pembuatan angka acak. Diantaranya adalah random () fungsi , yang menghasilkan angka acak antara 0 dan 1.Melakukan impor dengan cara ini mengharuskan Anda menggunakan sintaks random.random().Fungsi acak juga dapat diimpor dari modul secara terpisah<p>
 
-Melakukan impor dengan cara ini mengharuskan Anda menggunakan sintaks random.random().
-
-Fungsi acak juga dapat diimpor dari modul secara terpisah:
-
-from random import random
+```from random import random```
 Hal ini memungkinkan Anda untuk kemudian hanya menelepon random()langsung.<p>
+
+Untuk sekedar informasi jika ingin eksekusi dengan library modul ```from random import random``` harus menggunakan IDE atau terxt editor p
