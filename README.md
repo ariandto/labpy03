@@ -11,7 +11,7 @@
 
 <b>A.</b><b>Penjelasan Program Latihan 1#</b><p>
 <b>a.</b><b>Menampilan bilangan acak dari bilangan yang lebih kecil dari 0.5<p>
-<b>Source Code:</b><b></p>
+<b>Source Code:</b></p>
 
 ```python
 while True:
@@ -28,7 +28,7 @@ while True:
         break
 ```
 
-<i>Keterangan</i><b></p>
+<i>Keterangan</i></p>
 
 ```python
 while True:
@@ -39,7 +39,7 @@ while True:
 from random import random
 ```
 
-- Perbedaan 
+- Perbedaan<p>
 ```import random```
 mengimpor modul acak , yang berisi berbagai hal yang berkaitan dengan pembuatan angka acak. Diantaranya adalah random () fungsi , yang menghasilkan angka acak antara 0 dan 1.Melakukan impor dengan cara ini mengharuskan Anda menggunakan sintaks random.random().Fungsi acak juga dapat diimpor dari modul secara terpisah<p>
 
