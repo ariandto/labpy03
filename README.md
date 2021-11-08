@@ -28,7 +28,7 @@ while True:
         break
 ```
 
-<i>Keterangan</i></p>
+Keterangan</p>
 
 ```python
 while True:
@@ -42,8 +42,8 @@ from random import random
 - Perbedaan<p>
 ```import random```<p>
 
-<i>mengimpor modul acak yang berisi berbagai hal yang berkaitan dengan pembuatan angka acak. Diantaranya adalah random () fungsi yang menghasilkan angka acak antara 0 dan 1.</i><p>
-<i>Melakukan impor dengan cara ini mengharuskan Anda menggunakan sintaks random.random().Fungsi acak juga dapat diimpor dari modul secara terpisah</i><p>
+mengimpor modul acak yang berisi berbagai hal yang berkaitan dengan pembuatan angka acak. Diantaranya adalah random () fungsi yang menghasilkan angka acak antara 0 dan 1.<p>
+Melakukan impor dengan cara ini mengharuskan Anda menggunakan sintaks random.random().Fungsi acak juga dapat diimpor dari modul secara terpisah<p>
 
 ```from random import random```<p>
 
