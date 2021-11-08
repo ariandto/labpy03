@@ -72,7 +72,7 @@ while True:
 
 - Keterangan</p>
 
-- ```while True``` dihentikan dengan ```if loop==0``` yang berarti jika user input angka 0 maka program akan berakhir<p>
+- ```while True``` dihentikan dengan ```if loop==0```  dan ```break``` yang berarti jika user input angka 0 maka program akan berakhir<p>
 
 C. Penjelasan Program Latihan 3#<p>
 
