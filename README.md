@@ -1,6 +1,6 @@
 # labspy02
 <p align="center">
-<b>Fungsi Perulangan Random dan Contoh Program Perulangan</b>
+Fungsi Perulangan Random dan Contoh Program Perulangan
 </p>
 <p>
 
@@ -9,9 +9,9 @@
 <p align="center">
 </p>
 
-<b>A.</b><b>Penjelasan Program Latihan 1#</b><p>
-<b>a.</b><b>Menampilan bilangan acak dari bilangan yang lebih kecil dari 0.5<p>
-<b>Source Code:</b></p>
+A.Penjelasan Program Latihan 1#<p>
+a.Menampilan bilangan acak dari bilangan yang lebih kecil dari 0.5<p>
+Source Code:</p>
 
 ```python
 while True:
@@ -42,7 +42,7 @@ from random import random
 - Perbedaan<p>
 ```import random```<p>
 
-<i>mengimpor modul acak yang berisi berbagai hal yang berkaitan dengan pembuatan angka acak. Diantaranya adalah random () fungsi yang menghasilkan angka acak antara 0 dan 1.</i?\><p>
+<i>mengimpor modul acak yang berisi berbagai hal yang berkaitan dengan pembuatan angka acak. Diantaranya adalah random () fungsi yang menghasilkan angka acak antara 0 dan 1.</i><p>
 <i>Melakukan impor dengan cara ini mengharuskan Anda menggunakan sintaks random.random().Fungsi acak juga dapat diimpor dari modul secara terpisah</i><p>
 
 ```from random import random```<p>
